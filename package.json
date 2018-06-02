@@ -1,0 +1,28 @@
+{
+  "name": "trump_api",
+  "version": "1.0.0",
+  "description": "Receive random Donald Trump quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "trump"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielRMorales/trump-quotes.git"
+  },
+  "keywords": [
+    "trump",
+    "crazy"
+  ],
+  "author": "GRMorales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielRMorales/trump-quotes/issues"
+  },
+  "homepage": "https://github.com/GabrielRMorales/trump-quotes#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "npm": "^6.1.0"
+  }
+}
