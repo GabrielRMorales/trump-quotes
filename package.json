@@ -4,7 +4,7 @@
   "description": "Receive random Donald Trump quotes.",
   "main": "index.js",
   "scripts": {
-    "test": "trump"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
